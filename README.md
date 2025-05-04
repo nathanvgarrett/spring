@@ -142,26 +142,6 @@ Run the tests using:
 ./mvnw test
 ```
 
-## Features and TODOs
-
-### Current Features
-- Basic REST API structure
-- User domain model with Lombok integration
-- Path variable and request parameter handling
-- Request body parsing
-
-### TODOs
-- Add database integration
-- Implement complete CRUD operations
-- Add proper error handling
-- Implement security with Spring Security
-- Add API documentation with Swagger/OpenAPI
-- Implement validation for request data
-
-## License
-
-This project is open-source and available under the [LICENSE](LICENSE) file.
-
 ## Author
 
 - nvg :)
